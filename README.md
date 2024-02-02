@@ -24,10 +24,9 @@ This project showcases a mockup for Jane Smith, a talented Floral Designer. Not 
 | QR Code Background   | `#F3F3F3` |
 
 
-#### External Resources:
+#### External Resources: 
 
 https://www.the-qrcode-generator.com/
-
 
 #### How to Succeed
 
